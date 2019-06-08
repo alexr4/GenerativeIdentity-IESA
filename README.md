@@ -16,7 +16,7 @@ This repository gathers all references and examples made for the Generative Iden
 * [Cop15 by Okdeluxe](http://www.okdeluxe.co.uk/cop15/)
 * [Tour Metropole by Grapheine](https://www.grapheine.com/branding/tours-metropole-identite-visuelle)
 * [Casa da Música by Sagmeister & Walsh](https://sagmeisterwalsh.com/work/branding/casa-da-musica/)
-* [EMSCom by M%oving Brand](https://bpando.org/2013/03/15/branding-emscom/)
+* [EMSCom by Moving Brand](https://bpando.org/2013/03/15/branding-emscom/)
 
 # Planning
 * June 19th PM (13:30 to 17:00)
