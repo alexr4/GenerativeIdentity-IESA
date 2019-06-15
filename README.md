@@ -1,7 +1,8 @@
 # GenerativeIdentity-IESA (2019)
 This repository gathers all references and examples made for the Generative Identity workshop at IESA
 
-# Aims of this course
+![Cartesian Grid](img/cartesian.png?raw=true "Cartesian Grid")
+
 
 # Course section
 * Introduction to p5.js and drawing -> [See CC2018 course](https://alexr4.github.io/CC2018-eartsup/Cours/3_Introduction%20Formes%20et%20Dessins/) (French)
