@@ -1,8 +1,16 @@
-# GenerativeIdentity-IESA (2019)
-This repository gathers all references and examples made for the Generative Identity workshop at IESA
-
 ![Cartesian Grid](img/cartesian.png?raw=true "Cartesian Grid")
+![Polar Grid](img/polar.png?raw=true "Polar Grid")
 
+# GenerativeIdentity-IESA (2019)
+This course is an introduction to generative and animated identity.
+With the development of news tools, web service and platforms, brands are moving from static identity to generative and animated one. The new dimension brought by the animation and generative algorithm allows brand to adapt the speech, the user, the content or the devices which display their logo. By having the possibilities to adapt and transform, the logo can grows according to the brand or adapt itself to new sub-services delivered by the brand. Animation and generative algorithm bring this new dimension to the identity of a brand.
+
+During this course we will using p5.js, a javascript library dedicated to creative coding and learning, in order to learn the basics of a generative drawings. We will study two kinds of system : the cartesian grid which is described by a simple X/Y grid and the polar grid which is described by a radius and an angle. We will try this two system in addition with other elements such as randomness or pixel mapping.
+
+At this end of the these sessions, you will be asked to produced your own generative logo based on simples rules which you will define.
+
+This repository gathers all references and examples made for the Generative Identity workshop at IESA.
+Each example are commented in order to help you during this course.
 
 # Course section
 * Introduction to p5.js and drawing -> [See CC2018 course](https://alexr4.github.io/CC2018-eartsup/Cours/3_Introduction%20Formes%20et%20Dessins/) (French)
@@ -16,6 +24,11 @@ This repository gathers all references and examples made for the Generative Iden
 * * [Generative logo using perlin noise](https://editor.p5js.org/arivaux@gmail.com/sketches/3urmNLneh)
 * * [Generative 1D logo](https://editor.p5js.org/arivaux@gmail.com/sketches/f6DAQZEZj)
 * The (polar) grid system
+* * [Polar Grid System](https://editor.p5js.org/arivaux@gmail.com/sketches/coXavueeN)
+* * [Uniform Polar Grid](https://editor.p5js.org/arivaux@gmail.com/sketches/Cv88MatNm)
+* * [Generative logo using polar grid and perlin noise](https://editor.p5js.org/arivaux@gmail.com/sketches/vImkQ6Jrc)
+* * [Generative logo using polar shape and perlin noise](https://editor.p5js.org/arivaux@gmail.com/sketches/1dgXCUl0h)
+* * [Generative logo using polar grid and brownian random](https://editor.p5js.org/arivaux@gmail.com/sketches/wJ0rkOctv)
 
 # References
 * [Influx by Grapheine](https://www.grapheine.com/branding/identite-visuelle-influx-bibliotheque-lyon)
