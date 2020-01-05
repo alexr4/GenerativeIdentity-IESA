@@ -1,5 +1,6 @@
 ![Cartesian Grid](img/cartesian.png?raw=true "Cartesian Grid")
 ![Polar Grid](img/polar.png?raw=true "Polar Grid")
+![3D Grid](img/Simple3DGrids.png?raw=true "3D Grid")
 
 # GenerativeIdentity-IESA (2019)
 This course is an introduction to generative and animated identity.
