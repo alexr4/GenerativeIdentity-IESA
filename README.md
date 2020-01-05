@@ -29,6 +29,20 @@ Each example are commented in order to help you during this course.
 * * [Generative logo using polar grid and perlin noise](https://editor.p5js.org/arivaux@gmail.com/sketches/vImkQ6Jrc)
 * * [Generative logo using polar shape and perlin noise](https://editor.p5js.org/arivaux@gmail.com/sketches/1dgXCUl0h)
 * * [Generative logo using polar grid and brownian random](https://editor.p5js.org/arivaux@gmail.com/sketches/wJ0rkOctv)
+* Simple 3D systems
+* * [3D primitives](https://editor.p5js.org/arivaux@gmail.com/sketches/GJ7mu1sRJ)
+* * [3D cartesian grid](https://editor.p5js.org/arivaux@gmail.com/sketches/Y1CyAfc6s)
+* * [3D cartesian grid — RnD Shapes](https://editor.p5js.org/arivaux@gmail.com/sketches/DuuCvq9dG)
+* * [3D cartesian grid — RnD Cube Shape](https://editor.p5js.org/arivaux@gmail.com/sketches/Zu9nrIzYJ)
+* * [3D cartesian grid — RnD Cube Shape 2](https://editor.p5js.org/arivaux@gmail.com/sketches/tPstlpWFY)
+* * [3D cartesian grid — RnD Noised Cube Shape](https://editor.p5js.org/arivaux@gmail.com/sketches/zkHmfejLM)
+* * [3D cartesian grid — RnD Noised Cube Shape 2](https://editor.p5js.org/arivaux@gmail.com/sketches/i_GBNwWLJ)
+* * [3D Spherical coordinate](https://editor.p5js.org/arivaux@gmail.com/sketches/i7LHZVoXj)
+* * [3D Spherical coordinate — Spherical Shape](https://editor.p5js.org/arivaux@gmail.com/sketches/oQRDKwxkV)
+* * [3D Spherical coordinate — RnD Planes](https://editor.p5js.org/arivaux@gmail.com/sketches/nQoQhugoV)
+* * [3D Spherical coordinate — RnD Planes 2](https://editor.p5js.org/arivaux@gmail.com/sketches/qzC0RXVpk)
+* * [3D Spherical coordinate layers](https://editor.p5js.org/arivaux@gmail.com/sketches/WRHM1ppYf)
+* * [3D Spherical coordinate Rnd animated layers](https://editor.p5js.org/arivaux@gmail.com/sketches/FmDQo_k-c)
 
 # References
 * [Influx by Grapheine](https://www.grapheine.com/branding/identite-visuelle-influx-bibliotheque-lyon)
